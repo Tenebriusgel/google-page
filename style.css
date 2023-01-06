@@ -39,7 +39,11 @@ div button{
 .button{
     
 }
-footer{
-    align-items: center;
-    margin: 0;
-}
+#footer {
+    height: 50px;
+  }
+  
+  #footer-content {
+    height: 32px; 
+    padding: 8px;
+  }
